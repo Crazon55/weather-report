@@ -25,9 +25,5 @@ An automated weather data collection system built with Python that scrapes real-
 - Jupyter Notebook/JupyterLab
 - Required Python packages
 
-## 🔧 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/india-weather-scraper.git
 
